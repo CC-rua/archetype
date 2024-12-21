@@ -1,0 +1,2 @@
+mvn archetype:generate -DarchetypeCatalog=local
+ -DrootGroupId=com.company.adp -DrootArtifactId=company-archetype -DrootVersion=1.0.0
