@@ -1,2 +1,6 @@
-mvn archetype:generate -DarchetypeCatalog=local
- -DrootGroupId=com.company.adp -DrootArtifactId=company-archetype -DrootVersion=1.0.0
+mvn archetype:generate -DarchetypeCatalog=local -DrootGroupId=com.cc -DrootArtifactId=pd-modules -DrootVersion=1.0.0
+1
+com.cc
+pd-module-store
+1.0.0
+com/cc/pd/module/store
